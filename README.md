@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Syddevv
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently up skilling in MERN stack
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm currently on my second year in college, majoring in Bachelor of Science in Information System.
-
+- 🧑‍💻 Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express
 
