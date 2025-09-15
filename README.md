@@ -33,9 +33,21 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-[![SpenSyd](https://img.shields.io/badge/Live%20Demo-SpenSyd-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://spensyd.vercel.app)
+### 💰 SpenSyd
+A modern **expense tracker** built with the MERN stack.  
+Track your spending, manage categories, and visualize your finances in a clean UI.  
+
+🔗 **Live Demo:** [spensyd.vercel.app](https://spensyd.vercel.app)  
+📂 **Repository:** [GitHub Repo](https://github.com/Syddevv/SpenSyd)
+
+<p align="center">
+  <a href="https://github.com/Syddevv/SpenSyd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syddevv&repo=SpenSyd&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
