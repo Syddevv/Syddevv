@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=200&section=header&text=Hello%20World!%20I'm%20Syddev%20🌐&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2CB&width=435&lines=Full-Stack+Web+Developer;Building+SpenSyd+%F0%9F%92%B8;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2CB&width=435&lines=Aspiring+Full-Stack+Web+Developer+%F0%9F%92%B8;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me  
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/syddev/SpenSyd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syddev&repo=SpenSyd&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syddevv&repo=SpenSyd&theme=tokyonight" />
   </a>
 </p>
 
