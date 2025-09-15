@@ -35,18 +35,22 @@
 
 ## 📌 Featured Project
 
-### 💰 SpenSyd
-A modern **expense tracker** built with the MERN stack.  
-Track your spending, manage categories, and visualize your finances in a clean UI.  
-
-🔗 **Live Demo:** [spensyd.vercel.app](https://spensyd.vercel.app)  
-📂 **Repository:** [GitHub Repo](https://github.com/Syddevv/SpenSyd)
 
 <p align="center">
+  <a href="https://spensyd.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
+  </a>
   <a href="https://github.com/Syddevv/SpenSyd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syddevv&repo=SpenSyd&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+### 💰 SpenSyd
+A modern **expense tracker** built with the **MERN stack**.  
+Easily manage your spending, categorize expenses, and visualize insights with clean UI/UX.
+
+**Tech Stack:** React, Node.js, MongoDB, Express  
+**Tools Used:** Figma, Git, GitHub, Vercel, VS Code  
 
 
 ---
@@ -64,7 +68,7 @@ Track your spending, manage categories, and visualize your finances in a clean U
 
 <p align="center">
   <a href="mailto:sydneysantos176@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/sydney-santos-471a0b301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sydney-santos-471a0b301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
