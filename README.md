@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=200&section=header&text=Hello%20World!%20I'm%20[Syddev]%20🌐&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:9333ea&height=200&section=header&text=Hello%20World!%20I'm%20Syddev%20🌐&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 ## 👨‍💻 About Me  
 🎓 3rd Year **BS Information Systems Student**  
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Syddev&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Syddev&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
