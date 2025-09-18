@@ -67,14 +67,12 @@ Easily manage your spending, categorize expenses, and visualize insights with cl
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Syddevv&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
+  <!-- GitHub Stats (Self-hosted) -->
+  <img src="https://github-readme-stats-ten-green-96.vercel.app/api?username=Syddevv&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Syddevv&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
-
----
 
 ## 🌐 Connect with Me  
 
