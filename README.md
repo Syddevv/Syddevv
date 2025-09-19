@@ -49,9 +49,7 @@
   <a href="https://spensyd.vercel.app">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Syddevv/SpenSyd">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github" />
-  </a>
+ ![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=red&label=Streak&query=currentStreak.length&url=https://github-contributions-api.jogruber.de/v4/Syddevv)
 </p>
 
 ### 💰 SpenSyd
