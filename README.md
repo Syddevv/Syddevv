@@ -49,7 +49,7 @@
   <a href="https://letem-cook.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Syddevv/SpenSyd">
+  <a href="https://github.com/Syddevv/LetemCook">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
