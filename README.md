@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <a href="https://spensyd.vercel.app">
+  <a href="https://letem-cook.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/Syddevv/SpenSyd">
@@ -54,13 +54,11 @@
   </a>
 </p>
 
-### 💰 SpenSyd
-A modern **expense tracker** built with the **MERN stack**.  
-Easily manage your spending, categorize expenses, and visualize insights with clean UI/UX.
+### 🧑‍🍳 Let'em Cook
+Let'em Cook is a vibrant online platform designed for passionate home cooks to share their culinary masterpieces, discover new recipes, and connect with a community of food enthusiasts. Whether you're looking to create your next kitchen experiment or find inspiration for dinner tonight, Let'em Cook has everything you need to cook and share!
 
 **Tech Stack:** React, Node.js, MongoDB, Express  
 **Tools Used:** Figma, Git, GitHub, Vercel, VS Code  
-
 
 ---
 
