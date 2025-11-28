@@ -46,16 +46,16 @@
 
 
 <p align="center">
-  <a href="https://letem-cook.vercel.app/">
+  <a href="https://spensyd.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Syddevv/LetemCook">
+  <a href="https://github.com/Syddevv/SpenSyd">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-### 🧑‍🍳 Let'em Cook
-Let'em Cook is a vibrant online platform designed for passionate home cooks to share their culinary masterpieces, discover new recipes, and connect with a community of food enthusiasts. Whether you're looking to create your next kitchen experiment or find inspiration for dinner tonight, Let'em Cook has everything you need to cook and share!
+### 🧑‍🍳 SpenSyd
+SpenSyd is a modern web application built to help users track their spending and income efficiently. Now powered by a smart AI assistant, SpenSyd goes beyond simple tracking—it analyzes your financial data to give you instant insights. With a clean UI, secure authentication, and intuitive categorization, SpenSyd gives you the control to manage your finances with confidence.
 
 **Tech Stack:** React, Node.js, MongoDB, Express  
 **Tools Used:** Figma, Git, GitHub, Vercel, VS Code  
