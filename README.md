@@ -54,7 +54,7 @@
   </a>
 </p>
 
-### 🧑‍🍳 SpenSyd
+### 💲 SpenSyd 💸
 SpenSyd is a modern web application built to help users track their spending and income efficiently. Now powered by a smart AI assistant, SpenSyd goes beyond simple tracking—it analyzes your financial data to give you instant insights. With a clean UI, secure authentication, and intuitive categorization, SpenSyd gives you the control to manage your finances with confidence.
 
 **Tech Stack:** React, Node.js, MongoDB, Express  
