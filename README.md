@@ -54,11 +54,12 @@
   </a>
 </p>
 
-### 💲 Eyrie 🦅
-A modern offline-first finance app built with React Native, Expo, SQLite, and Supabase for expense tracking, budgeting, savings goals, and AI-powered financial insights.
+💲 Eyrie 🦅
 
-**Tech Stack:** React Native, Supabase, TypeScript
-**Tools Used:** Git, GitHub, VS Code, Expo  
+An offline-first personal finance app built with React Native, Expo, SQLite, and Supabase. Features expense tracking, budgeting, savings goals, analytics, and an AI-powered finance assistant with seamless online/offline synchronization.
+
+Tech Stack: React Native • TypeScript • SQLite • Supabase • Expo
+Tools: Git • GitHub • VS Code • EAS Build
 
 ---
 
