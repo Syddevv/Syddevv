@@ -46,19 +46,19 @@
 
 
 <p align="center">
-  <a href="https://spensyd.vercel.app/">
+  <a href="https://apkpure.com/p/com.sydu.eyrie">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/Syddevv/SpenSyd">
+  <a href="https://github.com/Syddevv/eyrie">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-### 💲 SpenSyd 💸
-SpenSyd is a modern web application built to help users track their spending and income efficiently. Now powered by a smart AI assistant, SpenSyd goes beyond simple tracking—it analyzes your financial data to give you instant insights. With a clean UI, secure authentication, and intuitive categorization, SpenSyd gives you the control to manage your finances with confidence.
+### 💲 Eyrie 🦅
+A modern offline-first finance app built with React Native, Expo, SQLite, and Supabase for expense tracking, budgeting, savings goals, and AI-powered financial insights.
 
-**Tech Stack:** React, Node.js, MongoDB, Express  
-**Tools Used:** Figma, Git, GitHub, Vercel, VS Code  
+**Tech Stack:** React Native, Supabase, TypeScript
+**Tools Used:** Git, GitHub, VS Code, Expo  
 
 ---
 
